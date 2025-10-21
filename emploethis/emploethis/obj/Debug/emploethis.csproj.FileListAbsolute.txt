@@ -1,0 +1,7 @@
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\bin\Debug\emploethis.exe.config
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\bin\Debug\emploethis.exe
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\bin\Debug\emploethis.pdb
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\obj\Debug\emploethis.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\obj\Debug\emploethis.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\obj\Debug\emploethis.exe
+C:\Users\Student.POLCOL\Desktop\Prakika\emploethis\emploethis\obj\Debug\emploethis.pdb

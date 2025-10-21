@@ -1,0 +1,7 @@
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\bin\Debug\Point.exe.config
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\bin\Debug\Point.exe
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\bin\Debug\Point.pdb
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\obj\Debug\Point.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\obj\Debug\Point.exe
+C:\Users\Student.POLCOL\Desktop\Prakika\Point\Point\obj\Debug\Point.pdb
